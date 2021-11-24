@@ -1,2 +1,2 @@
 # stackoverflow
-Just some sample code snippers for stackoverflow
+Just some sample code snippets for stackoverflow
